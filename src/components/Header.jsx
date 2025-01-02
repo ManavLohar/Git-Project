@@ -27,6 +27,11 @@ const Header = () => {
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore
+          minus autem ea culpa error aut voluptates veniam eveniet totam
+          exercitationem?
+        </p>
       </Container>
     </Navbar>
   );
