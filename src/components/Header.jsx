@@ -28,7 +28,6 @@ const Header = () => {
           </Nav>
         </Navbar.Collapse>
       </Container>
-      <p>This changes is adding for testing</p>
     </Navbar>
   );
 };
