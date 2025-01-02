@@ -29,6 +29,8 @@ function CarouselS() {
         <Carousel.Caption>
           <h3>Third slide label</h3>
           <h3>Fifth slide label</h3>
+          <h3>Fourth slide label</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           <p>
             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
           </p>
