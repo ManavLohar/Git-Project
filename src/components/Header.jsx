@@ -34,6 +34,7 @@ const Header = () => {
         </p>
       </Container>
       <p>This changes is adding for testing</p>
+      <p>This changes is adding for testing 2</p>
     </Navbar>
   );
 };
