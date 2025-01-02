@@ -21,7 +21,7 @@ function CarouselS() {
         <p>Second Slide</p>
         <Carousel.Caption>
           <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
